@@ -1,0 +1,15 @@
+
+
+table {
+    text-align: center;
+}
+
+.kembali {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+button {
+    background-color: aquamarine;
+}
